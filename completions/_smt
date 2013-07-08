@@ -1,0 +1,3 @@
+#compdef smt
+
+_arguments "1:Commands :(init configure info run list delete comment tag repeat diff help export upgrade sync)"
